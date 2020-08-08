@@ -1,0 +1,14 @@
+ #example 1
+
+List1=[12,-7,5,64,-14]
+For num in list1:
+    If num>=0 :
+    Print(num)
+#example2
+List2=[ 12,14,3]
+Newlist=[]
+For num in list2:
+    If num>=0 :
+    Newlist.append(num)
+  
+Print(Newlist)
